@@ -1,0 +1,10 @@
+.notion-topbar{ /* hiding notion's default navigation bar for a more "app" feeling */
+    display:none; 
+  }
+  .btn-notion{ /* defining some style for our buttons */
+    background-color:#FFC300;
+    color: #333333;
+  }
+  .notion-selectable.notion-page-block.notion-collection-item span{
+    pointer-events: auto !important; /* notion prevents clicks on items inside databases. Use this to remove that. */
+  }
