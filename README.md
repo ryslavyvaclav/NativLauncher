@@ -1,6 +1,8 @@
 ### NativLauncher
  Your place for all those web-apps.
- 
+
+![Snímek obrazovky 2023-03-08 134526](https://user-images.githubusercontent.com/82129251/223718749-12636d1f-e284-44b0-82d2-1adac28fb82d.png)
+
  Is an [Electron](https://www.electronjs.org/) wrapped [website](https://ryslavyvaclav.github.io/NativLauncher-web/) made up using [Nativefier](https://github.com/nativefier/nativefier/) scripts.
  
 ## Installation
