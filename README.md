@@ -17,3 +17,6 @@
 
 ## If..
 you know better than me.. let me know or do a contribution! 
+
+## AND..
+I cannot fix issues related to the [Nativefier](https://github.com/nativefier/nativefier/) project 😵‍💫
