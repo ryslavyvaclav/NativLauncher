@@ -20,5 +20,7 @@
 ## If..
 you know better than me.. let me know or do a contribution! 
 
+you want to know better or more checkout [Installation](https://github.com/nativefier/nativefier/#installation) and [Usage](https://github.com/nativefier/nativefier/#usage) of Nativefier so you can make your own launcher!
+
 ## AND..
 I cannot fix issues related to the [Nativefier](https://github.com/nativefier/nativefier/) project 😵‍💫
