@@ -14,3 +14,6 @@
    That means that certain websites wont work (Spotify, Tidal, and all those DRM Sites)
 2. Webcam does not work
 3. You tell me
+
+## If..
+you know better than me.. let me know or do a contribution! 
