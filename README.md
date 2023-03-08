@@ -1,6 +1,7 @@
 ### NativLauncher
  Your place for all those web-apps.
-Is a GUI [Electron](https://www.electronjs.org/) [website](https://ryslavyvaclav.github.io/NativLauncher-web/) wrapper made up using [Nativefier](https://github.com/nativefier/nativefier/) scripts.
+ 
+ Is a GUI [Electron](https://www.electronjs.org/) [website](https://ryslavyvaclav.github.io/NativLauncher-web/) wrapper made up using [Nativefier](https://github.com/nativefier/nativefier/) scripts.
  
 ## Installation
 1. Unzip
